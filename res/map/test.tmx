@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="003-Forest01" tilewidth="32" tileheight="32">
+  <image source="003-Forest01.png" width="256" height="608"/>
+ </tileset>
+ <tileset firstgid="153" name="Chapter1_01" tilewidth="32" tileheight="32">
+  <image source="Chapter1_01.png" width="256" height="4064"/>
+ </tileset>
+ <layer name="base" width="40" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3DMQ0AAAwEoVvev+XK6AIJq6aqqqq+PspUdqugDwAA
+  </data>
+ </layer>
+ <layer name="layer2" width="40" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2U2w6CMAyGiRIgoCZKPB9fxxvewxvf/9LNrElT163bgGjil/xhuIZ9dI4sC6dmxhyNqavRuHHUt6g+Bd8zGosH+GE6NF4YP0goBXKLZcoEz8+IXxmxztozXwW4cb5LlZXxkzhuVXYqG5Wzp/aqcgt04np6VDmR5xeO+4u57lUOjNeVrDUh1xA/De4h/n9RT0xuAlRkXFkcufj8wNHGXOCIg13z7LOHnKvPDxw5T1t/sBe9x/50XYknhu6j77xQFy4A54nBjhKk3x2JJ3WW7KUUn2cb4MUhOR99EOsXg+vb4sJ2PmL94Bxyc7GM0T9NbA81Yzjqs6H7mLrXQ/YQ0I4pe566trRHZWD9EHT+kjfgWTL5JsDpbpmTvu+f/nlYfnuObvF7vACCAla1oA8AAA==
+  </data>
+ </layer>
+ <layer name="块层 2" width="40" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3WuU4CURSA4XkC30FAElRIEDEB0QQREllkEVAUAVlMELECKrQSn9u/uEM1251iZor7J19xk5PMme5omvPqaEjMu+nAwcwhQggjgiNE8YgniXm9FdbYiPcdyqigihruxW5O9ovhGCc4RRwJDDGSmNfb4hs/4t1ECw9oo4Ouyd5GJXGGFM6RxoXF/9jN/2KHP/Hu4Rkv6OMVA5O9jcogi0vkcIVri/00yfk3jDHBFDO8m+xtVB43KOAWRZQsvic7P8cHFvjEEl8mewcpo72D1NzvBVQqlUqlUu2zu8/9zu4+9zvZe97r3NzzXiZ7n3vZPw7YmCKgDwAA
+  </data>
+ </layer>
+ <layer name="块层 4" width="40" height="25" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OxwmAUBQFUfvvzAhGMIIRjDU421/BQ7kDZz+e9598BAgRIUZieuSWIkOOAiUq0yO3Gg1adOgxmB65jZgwY8GKzfTIbceBExduPKZHSimllFJKqS/1AigkLxagDwAA
+  </data>
+ </layer>
+</map>
